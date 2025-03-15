@@ -1,5 +1,5 @@
 import sys
-from db_migrator.migrator import migrate_schema_and_data
+from easymigrate.migrator import migrate_schema_and_data
 
 
 def main():

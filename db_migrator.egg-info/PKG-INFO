@@ -1,9 +1,0 @@
-Metadata-Version: 2.2
-Name: db_migrator
-Version: 1.0
-Summary: A universal database migration tool
-Author: Your Name
-Requires-Dist: sqlalchemy
-Dynamic: author
-Dynamic: requires-dist
-Dynamic: summary

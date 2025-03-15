@@ -1,6 +1,6 @@
 from sqlalchemy import MetaData, Table
 import sys
-from db_migrator.database import create_connection
+from easymigrate.database import create_connection
 
 
 def migrate_schema_and_data(source_url, target_url):

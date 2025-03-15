@@ -13,8 +13,8 @@ A universal **any-to-any** database migration tool that allows seamless transfer
 ## **Installation**  
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/db-migrator.git
-cd db-migrator
+git clone https://github.com/yourusername/easymigrate.git
+cd easymigrate
 ```
 
 ### **2. Install Dependencies**  
@@ -27,20 +27,20 @@ pip install -e .
 ## **Usage**  
 Run the migration using the command-line tool:  
 ```sh
-db-migrator "<source_db_url>" "<target_db_url>"
+easymigrate "<source_db_url>" "<target_db_url>"
 ```
 ### **Example Commands**
 #### **PostgreSQL to MySQL**
 ```sh
-db-migrator "postgresql://user:password@localhost/old_db" "mysql://user:password@localhost/new_db"
+easymigrate "postgresql://user:password@localhost/old_db" "mysql://user:password@localhost/new_db"
 ```
 #### **SQLite to PostgreSQL**
 ```sh
-db-migrator "sqlite:///old_database.db" "postgresql://user:password@localhost/new_db"
+easymigrate "sqlite:///old_database.db" "postgresql://user:password@localhost/new_db"
 ```
 #### **MySQL to SQL Server**
 ```sh
-db-migrator "mysql://user:password@localhost/old_db" "mssql+pyodbc://user:password@server/new_db"
+easymigrate "mysql://user:password@localhost/old_db" "mssql+pyodbc://user:password@server/new_db"
 ```
 
 ---
@@ -79,7 +79,7 @@ Want to improve this tool? Fork it and submit a **pull request**!
 This project is licensed under the **MIT License**.  
 
 📌 **Author**: *Your Name*  
-📌 **GitHub**: [Your Repository](https://github.com/yourusername/db-migrator)  
+📌 **GitHub**: [Your Repository](https://github.com/yourusername/easymigrate)  
 
 ---
 
