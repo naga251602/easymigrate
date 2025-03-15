@@ -78,8 +78,8 @@ Want to improve this tool? Fork it and submit a **pull request**!
 ## **License**  
 This project is licensed under the **MIT License**.  
 
-📌 **Author**: *Your Name*  
-📌 **GitHub**: [Your Repository](https://github.com/yourusername/easymigrate)  
+📌 **Author**: GAURAV N V  
+📌 **GitHub**: easymigrate (https://github.com/naga251602/easymigrate)  
 
 ---
 
