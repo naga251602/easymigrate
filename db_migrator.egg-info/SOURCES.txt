@@ -1,0 +1,11 @@
+setup.py
+db_migrator.egg-info/PKG-INFO
+db_migrator.egg-info/SOURCES.txt
+db_migrator.egg-info/dependency_links.txt
+db_migrator.egg-info/entry_points.txt
+db_migrator.egg-info/requires.txt
+db_migrator.egg-info/top_level.txt
+easymigrate/__init__.py
+easymigrate/cli.py
+easymigrate/database.py
+easymigrate/migrator.py
