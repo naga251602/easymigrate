@@ -19,7 +19,7 @@ cd easymigrate
 
 ### **2. Install Dependencies**  
 ```sh
-pip install -e .
+pip install -r requirements.txt .
 ```
 
 ---
