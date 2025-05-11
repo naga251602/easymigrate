@@ -8,6 +8,6 @@ setup(
     entry_points={
         "console_scripts": ["easymigrate=easymigrate.cli:main"]
     },
-    author="Your Name",
+    author="GAURAV N V",
     description="A universal database migration tool",
 )
